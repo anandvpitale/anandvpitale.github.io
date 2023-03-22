@@ -1324,6 +1324,15 @@ body.is-preload #bg:before {
     border: solid 1px #ffffff;
     border-radius: 100%;
 }
+/*----------Profile Photo------------*/
+#header .headerImage {
+    width: 7.5rem;
+    height: 7.5rem;
+    line-height: 5.5rem;
+    border: solid 1px #ffffff;
+    border-radius: 100%;
+    object-fit: cover;
+}
 
 #header .logo .icon:before {
     font-size: 2rem;
